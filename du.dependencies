@@ -1,0 +1,45 @@
+# Hehe, West coast, East coast, this is illegal dose.
+[ 
+  {
+    "remote":       "github",
+    "repository":   "ParadoxKernel-Pa/android_device_motorola_msm8226-common",
+    "target_path":  "device/motorola/msm8226-common",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CyanogenMod/android_device_qcom_common",
+    "target_path":  "device/qcom/common",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "CyanogenMod/android_kernel_motorola_msm8226",
+    "target_path":  "kernel/motorola/msm8226",
+    "revision":     "cm-11.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "TheMuppets/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision":    "cm-11.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_hardware_qcom_audio-caf",
+    "target_path": "hardware/qcom/audio-caf",
+    "revision":    "cm-11.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_hardware_qcom_media-caf-new",
+    "target_path": "hardware/qcom/media-caf-new",
+    "revision":    "cm-11.0"
+  },
+  {
+    "remote":      "github",
+    "repository":  "CyanogenMod/android_hardware_qcom_display-caf-new",
+    "target_path": "hardware/qcom/display-caf-new",
+    "revision":    "cm-11.0"
+  }
+]
