@@ -97,8 +97,8 @@ void init_msm_properties(unsigned long msm_id, unsigned long msm_ver, char *boar
             property_set("ro.com.google.clientidbase.ms", "android-verizon");
             property_set("ro.com.google.clientidbase.am", "android-verizon");
             property_set("ro.com.google.clientidbase.yt", "android-verizon");
-        } else {
-            /* xt1031 */
+	    } else {
+			/* xt1031 */
             property_set("ro.product.device", "falcon_cdma");
             property_set("ro.product.model", "Moto G");
             property_set("ro.build.description", "falcon_boost-user 4.4.2 KXB20.9-1.10-1.18 18 release-keys");
